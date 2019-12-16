@@ -5,7 +5,7 @@
 ## Build Setup
 
 ```
-豆瓣练习案例豆瓣练习案例豆瓣练习案例修正
+豆瓣练习案例豆瓣练习案例豆瓣练习案例修正11111
 to githup + gitee
 # 初始化项目
 vue init mpvue/mpvue-quickstart myproject
