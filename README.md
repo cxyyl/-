@@ -4,8 +4,9 @@
 
 ## Build Setup
 
-``` bash
+```
 豆瓣练习案例
+to githup + gitee
 # 初始化项目
 vue init mpvue/mpvue-quickstart myproject
 cd myproject
